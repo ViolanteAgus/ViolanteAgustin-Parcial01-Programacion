@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/viola/OneDrive/Escritorio/Tecnicatura en VideoJuegos/Desarrollo virtuales 1/FirstGame_Test/VAParcial01/Content/AVParcial-01.umap",
+				"C:/Users/viola/OneDrive/Escritorio/Tecnicatura en VideoJuegos/Desarrollo virtuales 1/FirstGame_Test/VAParcial01/Content/BluePrint/BP_Bala.uasset",
+				"C:/Users/viola/OneDrive/Escritorio/Tecnicatura en VideoJuegos/Desarrollo virtuales 1/FirstGame_Test/VAParcial01/Content/BluePrint/BP_Ladron.uasset",
+				"C:/Users/viola/OneDrive/Escritorio/Tecnicatura en VideoJuegos/Desarrollo virtuales 1/FirstGame_Test/VAParcial01/Content/BluePrint/BP_Perseguido.uasset"
+			]
+		}
+	]
+}
